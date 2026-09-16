@@ -207,3 +207,6 @@ SaferPass is the complete free version, with all features and updates included. 
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-16 20:32:40 UTC
